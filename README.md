@@ -1,6 +1,6 @@
 # 机器学习100天
 
-英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](tree/master/datasets)。
+英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](https://github.com/MachineLearning100/100-Days-Of-ML-Code/tree/master/datasets)。
 
 翻译前请先阅读[规范](Translation%20specification.MD)。常见问题解答见[FAQ](FAQ.MD)。
 
@@ -19,29 +19,29 @@
   - [层次聚类](#层次聚类--第54天)
 
 ## 数据预处理 | 第1天
-[数据预处理实现](blob/master/Code/Day%201_Data_Preprocessing.md)
+[数据预处理实现](Code/Day%201_Data_Preprocessing.md)
 
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%201.jpg">
+  <img src="Info-graphs/Day%201.jpg">
 </p>
 
 ## 简单线性回归 | 第2天
-[简单线性回归实现](blob/master/Code/Day%202_Simple_Linear_Regression.md)
+[简单线性回归实现](Code/Day%202_Simple_Linear_Regression.md)
 
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%202.jpg">
+  <img src="Info-graphs/Day%202.jpg">
 </p>
 
 ## 多元线性回归 | 第3天
-[多元线性回归实现](blob/master/Code/Day%203_Multiple_Linear_Regression.md)
+[多元线性回归实现](Code/Day%203_Multiple_Linear_Regression.md)
 
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%203.png">
+  <img src="Info-graphs/Day%203.png">
 </p>
 
 ## 逻辑回归 | 第4天
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%204.jpg">
+  <img src="Info-graphs/Day%204.jpg">
 </p>
 
 ## 逻辑回归 | 第5天
@@ -49,11 +49,11 @@
 由于时间关系，我将隔天发布信息图。如果有人在机器学习领域有一定经验，并愿意帮我编写代码文档，也了解github的Markdown语法，请在领英联系我。
 
 ## 逻辑回归 | 第6天
-[逻辑回归实现](blob/master/Code/Day%206_Logistic_Regression.md)
+[逻辑回归实现](Code/Day%206_Logistic_Regression.md)
 
 ## K近邻法(k-NN) | 第7天
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%207.jpg">
+  <img src="Info-graphs/Day%207.jpg">
 </p>
 
 ## 逻辑回归背后的数学 | 第8天
@@ -68,18 +68,18 @@
 了解更多关于SVM如何工作和实现knn算法的知识。
 
 ## K近邻法(k-NN) | 第11天
-[K近邻法(k-NN)实现](blob/master/Code/Day%2011_K-NN.md)
+[K近邻法(k-NN)实现](Code/Day%2011_K-NN.md)
 
 ## 支持向量机(SVM) | 第12天
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%2012.jpg">
+  <img src="Info-graphs/Day%2012.jpg">
 </p>
 
 ## 支持向量机(SVM) | 第13天
-[SVM实现](blob/master/Code/Day%2013_SVM.md)
+[SVM实现](Code/Day%2013_SVM.md)
 
 ## 支持向量机(SVM)的实现 | 第14天
-今天我在线性相关数据上实现了SVM。使用Scikit-Learn库。在scikit-learn中我们有SVC分类器，我们用它来完成这个任务。将在下一次实现时使用kernel-trick。Python代码见[此处](blob/master/Code/Day%2013_SVM.py),Jupyter notebook见[此处](blob/master/Code/Day%2013_SVM.ipynb)。
+今天我在线性相关数据上实现了SVM。使用Scikit-Learn库。在scikit-learn中我们有SVC分类器，我们用它来完成这个任务。将在下一次实现时使用kernel-trick。Python代码见[此处](Code/Day%2013_SVM.py),Jupyter notebook见[此处](Code/Day%2013_SVM.ipynb)。
 
 ## 朴素贝叶斯分类器(Naive Bayes Classifier)和黑盒机器学习(Black Box Machine Learning) | 第15天
 学习不同类型的朴素贝叶斯分类器同时开始<a href="https://bloomberg.github.io/foml/#home">Bloomberg</a>的课程。课程列表中的第一个是黑盒机器学习。它给出了预测函数，特征提取，学习算法，性能评估，交叉验证，样本偏差，非平稳性，过度拟合和超参数调整的整体观点。
@@ -107,14 +107,14 @@
 
 ## 决策树 | 第23天
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%2023%20-%20Chinese.jpg">
+  <img src="Info-graphs/Day%2023%20-%20Chinese.jpg">
 </p>
 
 ## 统计学习理论的介绍 | 第24天
 Bloomberg ML课程的第3课介绍了一些核心概念，如输入空间，动作空间，结果空间，预测函数，损失函数和假设空间。
 
 ## 决策树 | 第25天
-[决策树实现](blob/master/Code/Day%2025_Decision_Tree.md)
+[决策树实现](Code/Day%2025_Decision_Tree.md)
 
 ## 跳到复习线性代数 | 第26天
 发现YouTube一个神奇的频道[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)，它有一个播放列表《线性代数的本质》。看完了4个视频，包括了向量，线性组合，跨度，基向量，线性变换和矩阵乘法。
@@ -153,11 +153,11 @@ B站播放列表在[这里](https://space.bilibili.com/88461692/#/channel/detail
 
 ## 随机森林 | 第33天
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%2033.png">
+  <img src="Info-graphs/Day%2033.png">
 </p>
 
 ## 随机森林 | 第34天
-[随机森林实现](blob/master/Code/Day%2034_Random_Forests.md)
+[随机森林实现](Code/Day%2034_Random_Forests.md)
 
 ## 什么是神经网络？ | 深度学习，第1章 | 第 35天
 Youtube频道3Blue1Brown中有精彩的视频介绍神经网络。这个视频提供了很好的解释，并使用手写数字数据集演示基本概念。
@@ -181,25 +181,25 @@ B站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=2
 
 ## 第1部分 | 深度学习基础Python，TensorFlow和Keras | 第39天
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](blob/master/Code/Day%2039.ipynb)。
+<br>中文文字版[notebook](Code/Day%2039.ipynb)。
 
 ## 第2部分 | 深度学习基础Python，TensorFlow和Keras | 第40天
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](blob/master/Code/Day%2040.ipynb)。
+<br>中文文字版[notebook](Code/Day%2040.ipynb)。
 
 ## 第3部分 | 深度学习基础Python，TensorFlow和Keras | 第41天
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](blob/master/Code/Day%2041.ipynb)。
+<br>中文文字版[notebook](Code/Day%2041.ipynb)。
 
 ## 第4部分 | 深度学习基础Python，TensorFlow和Keras | 第42天
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](blob/master/Code/Day%2042.ipynb)。
+<br>中文文字版[notebook](Code/Day%2042.ipynb)。
 
 ## K-均值聚类 | 第43天
 转到无监督学习，并研究了聚类。可在[作者网站](http://www.avikjain.me/)查询。发现一个奇妙的[动画](http://shabal.in/visuals/kmeans/6.html)有助于理解K-均值聚类。
 
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%2043.jpg">
+  <img src="Info-graphs/Day%2043.jpg">
 </p>
 
 ## K-均值聚类 | 第44天
@@ -207,7 +207,7 @@ B站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=2
 
 ## 深入研究 | NUMPY | 第45天
 得到JK VanderPlas写的书《Python数据科学手册（Python Data Science HandBook）》，Jupyter notebooks在[这里](https://github.com/jakevdp/PythonDataScienceHandbook)。
-<br>**[高清中文版pdf](blob/master/Other%20Docs/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.zip)**
+<br>**[高清中文版pdf](Other%20Docs/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.zip)**
 <br>第2章：NumPy介绍，包括数据类型、数组和数组计算。
 <br>代码如下：
 <br>[2 NumPy入门](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
@@ -281,8 +281,8 @@ B站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=2
 <br>[4.12 画三维图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
 
 ## 层次聚类 | 第54天
-[动画演示](blob/master/Other%20Docs/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB.gif)
+[动画演示](Other%20Docs/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB.gif)
 
 <p align="center">
-  <img src="blob/master/Info-graphs/Day%2054.jpg">
+  <img src="Info-graphs/Day%2054.jpg">
 </p>
